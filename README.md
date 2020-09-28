@@ -1,10 +1,1 @@
-To set up login details, save and edit this as config.json in *$PWD/data/*
-```JSON
-{
-  "login": {
-    "email": "",
-    "password": "",
-    "token": ""
-  }
-}
-```
+[![Run on Repl.it](https://repl.it/badge/github/HewoLoser/lewdbot-discord)](https://repl.it/github/HewoLoser/lewdbot-discord)
